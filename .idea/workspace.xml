@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8b39c0b-5be1-450c-b6f4-745a29c4b4fc" name="Changes" comment="added GitTest">
-      <change afterPath="$PROJECT_DIR$/HW3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f8b39c0b-5be1-450c-b6f4-745a29c4b4fc" name="Changes" comment="added hw2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,16 +49,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.HW3.executor": "Run",
-    "Python.Hw2 template.executor": "Run",
-    "Python.hw template.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/5th Hour"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Hw2 template.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw template.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -142,23 +137,7 @@
       <option name="project" value="LOCAL" />
       <updated>1724349873736</updated>
     </task>
-    <task id="LOCAL-00009" summary="added hw2">
-      <option name="closed" value="true" />
-      <created>1724350239555</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1724350239555</updated>
-    </task>
-    <task id="LOCAL-00010" summary="added GitTest">
-      <option name="closed" value="true" />
-      <created>1724350338715</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1724350338715</updated>
-    </task>
-    <option name="localTasksCounter" value="11" />
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,9 +153,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added hw1" />
-    <MESSAGE value="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Hw2 template.py" />
     <MESSAGE value="added hw2" />
-    <MESSAGE value="added GitTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="added GitTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="added hw2" />
   </component>
 </project>
