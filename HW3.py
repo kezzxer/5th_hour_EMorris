@@ -1,6 +1,6 @@
-
-
-
+#Ethan Morris
+#5th hour
+#HW3
 print("hello world")
 naughtyList = ['preston','gabe','ben','ethan','vyse']
 print(naughtyList)
