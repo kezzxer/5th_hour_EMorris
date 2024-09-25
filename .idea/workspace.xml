@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8b39c0b-5be1-450c-b6f4-745a29c4b4fc" name="Changes" comment="Merge remote-tracking branch 'github/master'">
-      <change afterPath="$PROJECT_DIR$/scenario.py" afterDir="false" />
+    <list default="true" id="f8b39c0b-5be1-450c-b6f4-745a29c4b4fc" name="Changes" comment="added senario2">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_16_2024_1_07_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_16_2024_1_07_PM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitTest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw4.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +64,7 @@
     "Python.hw template.executor": "Run",
     "Python.hw4.executor": "Run",
     "Python.playground.executor": "Run",
+    "Python.scenario 2.executor": "Run",
     "Python.scenario.executor": "Run",
     "Python.tesyt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -245,7 +245,31 @@
       <option name="project" value="LOCAL" />
       <updated>1726510041598</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Merge remote-tracking branch 'github/master'">
+      <option name="closed" value="true" />
+      <created>1726769714100</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1726769714100</updated>
+    </task>
+    <task id="LOCAL-00021" summary="added senario1">
+      <option name="closed" value="true" />
+      <created>1726769752888</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1726769752888</updated>
+    </task>
+    <task id="LOCAL-00022" summary="added senario2">
+      <option name="closed" value="true" />
+      <created>1727201843322</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1727201843322</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -267,6 +291,8 @@
     <MESSAGE value="added hw 3" />
     <MESSAGE value="added playground.py" />
     <MESSAGE value="Merge remote-tracking branch 'github/master'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'github/master'" />
+    <MESSAGE value="added senario1" />
+    <MESSAGE value="added senario2" />
+    <option name="LAST_COMMIT_MESSAGE" value="added senario2" />
   </component>
 </project>

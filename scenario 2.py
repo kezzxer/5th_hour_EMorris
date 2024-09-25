@@ -55,6 +55,6 @@ steppamon = {
     } }
 
 #Test the damage here by subtracting a party member's damage from the enemy's health.
-difference = (steppamon["cheif kef"]["health"]) - partyDictionary[input("pick a party member(LaeZel, Shadowheart, Gale, Astarion):")]['Damage']
+difference = (steppamon["cheif kef"]["health"] - partyDictionary[input("pick a party member(LaeZel, Shadowheart, Gale, Astarion):")]['Damage'])
 
 print(difference)
