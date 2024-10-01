@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8b39c0b-5be1-450c-b6f4-745a29c4b4fc" name="Changes" comment="added senario2">
-      <change afterPath="$PROJECT_DIR$/hw5.py" afterDir="false" />
+    <list default="true" id="f8b39c0b-5be1-450c-b6f4-745a29c4b4fc" name="Changes" comment="added hm5">
+      <change afterPath="$PROJECT_DIR$/hw6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_16_2024_1_07_PM_[Changes]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_16_2024_1_07_PM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -65,6 +65,7 @@
     "Python.hw template.executor": "Run",
     "Python.hw4.executor": "Run",
     "Python.hw5.executor": "Run",
+    "Python.hw6.executor": "Run",
     "Python.playground.executor": "Run",
     "Python.scenario 2.executor": "Run",
     "Python.scenario.executor": "Run",
@@ -279,7 +280,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727287736179</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="added hm5">
+      <option name="closed" value="true" />
+      <created>1727460186402</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1727460186402</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -303,6 +312,7 @@
     <MESSAGE value="Merge remote-tracking branch 'github/master'" />
     <MESSAGE value="added senario1" />
     <MESSAGE value="added senario2" />
-    <option name="LAST_COMMIT_MESSAGE" value="added senario2" />
+    <MESSAGE value="added hm5" />
+    <option name="LAST_COMMIT_MESSAGE" value="added hm5" />
   </component>
 </project>
