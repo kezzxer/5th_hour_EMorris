@@ -11,7 +11,6 @@ if num %2==0:
     print("divisible by 2 "),
 else:
     print("not divisible by 3"),
-else:
     if num % 3 == 0:
         print("not divisible by 2")
         print(num % 3 == 0),
