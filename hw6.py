@@ -1,6 +1,6 @@
 #Name:ethan morris
 #class: 5th hour
-#Assignment: hw5
+#Assignment: hw6
 
 print("hello world")
 
