@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8b39c0b-5be1-450c-b6f4-745a29c4b4fc" name="Changes" comment="added hm6">
-      <change afterPath="$PROJECT_DIR$/hw7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_16_2024_1_07_PM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw6.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw6.py" afterDir="false" />
-    </list>
+    <list default="true" id="f8b39c0b-5be1-450c-b6f4-745a29c4b4fc" name="Changes" comment="added hm6" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,24 +53,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.HW3.executor": "Run",
-    "Python.Hw2 template.executor": "Run",
-    "Python.hw template.executor": "Run",
-    "Python.hw4.executor": "Run",
-    "Python.hw5.executor": "Run",
-    "Python.hw6.executor": "Run",
-    "Python.hw7.executor": "Run",
-    "Python.playground.executor": "Run",
-    "Python.scenario 2.executor": "Run",
-    "Python.scenario.executor": "Run",
-    "Python.tesyt.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/5th Hour/PycharmProjects/5th hour compsci"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.HW3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hw2 template.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw template.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.playground.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scenario 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scenario.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tesyt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/5th Hour/PycharmProjects/5th hour compsci&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\5th Hour\PycharmProjects\5th hour compsci" />
@@ -334,7 +329,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727978532672</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="added hm6">
+      <option name="closed" value="true" />
+      <created>1728325101162</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1728325101162</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -361,5 +364,16 @@
     <MESSAGE value="added hm5" />
     <MESSAGE value="added hm6" />
     <option name="LAST_COMMIT_MESSAGE" value="added hm6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hw7.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
