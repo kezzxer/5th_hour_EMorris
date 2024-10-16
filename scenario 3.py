@@ -82,33 +82,33 @@ partyDictionary = {
 #Enemy Dictionary Goes Here
 steppamon = {
     "cheif kef": {
-        "damage" : [4] ,
-        "health" :  [16],
-        "ac"     : [13],
+        "damage" : 4 ,
+        "health" :  16,
+        "ac"     : 13,
         "attack modifier" : 6
     } ,
     "lil yachty" : {
         "damage" : random.randint(1, 10) + random.randint(1, 10) + 3,
-        "heath"  :  [15] ,
-        "ac"     : [10],
+        "heath"  :  15 ,
+        "ac"     : 10,
         "attack modifier" : 5
     } ,
     "travis scott" :{
         "damage": random.randint(1, 6) + random.randint(1, 6) + 2,
-        "health": [25],
-        "ac"     : [17],
+        "health": 25,
+        "ac"     : 17,
         "attack modifier" : 7
     } ,
     "bbl drizzy" :{
-        "damage": random.randint(1, 6) ,
-        "health" : [20],
-        "ac"     : [15],
+        "damage":   random.randint(1, 6) ,
+        "health" : 20,
+        "ac"     : 15,
         "attack modifier" : 4
     } ,
     "kid cudi" :{
         "damage" : random.randint(1, 10)+ 4,
-        "health" : [10],
-        "ac"     : [12],
+        "health" : 10,
+        "ac"     :12,
         "attack modifier" : 3
     }
 }
@@ -141,4 +141,24 @@ steppamon = {
 
 
 #Combat Code Goes Here
+attack_radomoizer = (partyDictionary["Gale"]["attack modifier"]) + random.randint(1 ,20)
+
+if attack_radomoizer >= (steppamon["bbl drizzy"]["ac"]):
+    steppamon["bbl drizzy"]["health"] -= partyDictionary["Gale"]["Damage"]
+    if (steppamon["bbl drizzy"]["health"]) <= 0:
+        print("bbl drizzy died"),
+        exit(),
+    else:
+        print("bbl drizzy lives")
+        attack_radomoizer = (steppamon["bbl drizzy"]["attack modifier"]) + random.randint(1, 20)
+
+        if attack_radomoizer >= (partyDictionary["Gale"]["AC"]):
+            partyDictionary["Gale"]["Health"] -= steppamon["bbl drizzy"]["damage"]
+            if (partyDictionary["Gale"]["Health"]) <= 0:
+                print( "Gale died"),
+                exit(),
+            else:
+                print("Gale lives")
+
+
 
