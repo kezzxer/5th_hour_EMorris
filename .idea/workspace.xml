@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8b39c0b-5be1-450c-b6f4-745a29c4b4fc" name="Changes" comment="added hw8.py">
-      <change afterPath="$PROJECT_DIR$/hw9.py" afterDir="false" />
+    <list default="true" id="f8b39c0b-5be1-450c-b6f4-745a29c4b4fc" name="Changes" comment="added hw9.py">
+      <change afterPath="$PROJECT_DIR$/hw 10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,16 +62,20 @@
   "keyToString": {
     "Python.HW3.executor": "Run",
     "Python.Hw2 template.executor": "Run",
+    "Python.hw 10.executor": "Run",
     "Python.hw template.executor": "Run",
+    "Python.hw11.executor": "Run",
     "Python.hw4.executor": "Run",
     "Python.hw5.executor": "Run",
     "Python.hw6.executor": "Run",
     "Python.hw7.executor": "Run",
     "Python.hw8.executor": "Run",
+    "Python.hw9.executor": "Run",
     "Python.playground.executor": "Run",
     "Python.scenario 2.executor": "Run",
     "Python.scenario 3.executor": "Run",
     "Python.scenario.executor": "Run",
+    "Python.test.executor": "Run",
     "Python.tesyt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -374,7 +380,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729706557605</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="added hw9.py">
+      <option name="closed" value="true" />
+      <created>1729793143462</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1729793143462</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -402,7 +416,8 @@
     <MESSAGE value="added hm6" />
     <MESSAGE value="added scenario 3.py" />
     <MESSAGE value="added hw8.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="added hw8.py" />
+    <MESSAGE value="added hw9.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="added hw9.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
