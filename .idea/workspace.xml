@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8b39c0b-5be1-450c-b6f4-745a29c4b4fc" name="Changes" comment="added hw9.py">
-      <change afterPath="$PROJECT_DIR$/hw 10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    <list default="true" id="f8b39c0b-5be1-450c-b6f4-745a29c4b4fc" name="Changes" comment="added hw11.py">
+      <change afterPath="$PROJECT_DIR$/hw12.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw 10.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw 10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playground.py" beforeDir="false" afterPath="$PROJECT_DIR$/playground.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +65,7 @@
     "Python.hw 10.executor": "Run",
     "Python.hw template.executor": "Run",
     "Python.hw11.executor": "Run",
+    "Python.hw12.executor": "Run",
     "Python.hw4.executor": "Run",
     "Python.hw5.executor": "Run",
     "Python.hw6.executor": "Run",
@@ -388,7 +389,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729793143462</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="added hw10.py">
+      <option name="closed" value="true" />
+      <created>1730312292861</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1730312292861</updated>
+    </task>
+    <task id="LOCAL-00034" summary="added hw11.py">
+      <option name="closed" value="true" />
+      <created>1730312304896</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1730312304896</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -417,17 +434,8 @@
     <MESSAGE value="added scenario 3.py" />
     <MESSAGE value="added hw8.py" />
     <MESSAGE value="added hw9.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="added hw9.py" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/hw7.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="added hw10.py" />
+    <MESSAGE value="added hw11.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="added hw11.py" />
   </component>
 </project>
