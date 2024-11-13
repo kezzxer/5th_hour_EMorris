@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8b39c0b-5be1-450c-b6f4-745a29c4b4fc" name="Changes" comment="added hw11.py">
-      <change afterPath="$PROJECT_DIR$/hw12.py" afterDir="false" />
+    <list default="true" id="f8b39c0b-5be1-450c-b6f4-745a29c4b4fc" name="Changes" comment="added hw12.py">
+      <change afterPath="$PROJECT_DIR$/hw13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw14.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hw 10.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw 10.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/playground.py" beforeDir="false" afterPath="$PROJECT_DIR$/playground.py" afterDir="false" />
@@ -58,31 +59,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.HW3.executor": "Run",
-    "Python.Hw2 template.executor": "Run",
-    "Python.hw 10.executor": "Run",
-    "Python.hw template.executor": "Run",
-    "Python.hw11.executor": "Run",
-    "Python.hw12.executor": "Run",
-    "Python.hw4.executor": "Run",
-    "Python.hw5.executor": "Run",
-    "Python.hw6.executor": "Run",
-    "Python.hw7.executor": "Run",
-    "Python.hw8.executor": "Run",
-    "Python.hw9.executor": "Run",
-    "Python.playground.executor": "Run",
-    "Python.scenario 2.executor": "Run",
-    "Python.scenario 3.executor": "Run",
-    "Python.scenario.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.tesyt.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/5th Hour/PycharmProjects/5th hour compsci"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.HW3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hw2 template.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw 10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw template.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.playground.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scenario 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scenario 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scenario.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tesyt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/5th Hour/PycharmProjects/5th hour compsci&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\5th Hour\PycharmProjects\5th hour compsci" />
@@ -405,7 +407,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730312304896</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="added hw12.py">
+      <option name="closed" value="true" />
+      <created>1730920362225</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1730920362225</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -436,6 +446,7 @@
     <MESSAGE value="added hw9.py" />
     <MESSAGE value="added hw10.py" />
     <MESSAGE value="added hw11.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="added hw11.py" />
+    <MESSAGE value="added hw12.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="added hw12.py" />
   </component>
 </project>

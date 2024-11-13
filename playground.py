@@ -1,7 +1,6 @@
 #Ethan Morris
 #5th hour
 #playground
-#https://www.google.com/search?q=how+to+flip+a+coin+with+python&sca_esv=9102e70e77a48ac0&ei=kfDZZuOWH_CYkPIPmJGq6QE&ved=0ahUKEwijo6H4r6yIAxVwDEQIHZiIKh0Q4dUDCBA&uact=5&oq=how+to+flip+a+coin+with+python&gs_lp=Egxnd3Mtd2l6LXNlcnAiHmhvdyB0byBmbGlwIGEgY29pbiB3aXRoIHB5dGhvbjIGEAAYFhgeMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMggQABiABBiiBDIIEAAYogQYiQUyCBAAGIAEGKIEMggQABiABBiiBEieK1CYI1jSJ3ABeAGQAQCYAW6gAe0CqgEDMy4xuAEDyAEA-AEBmAIFoAKUA8ICChAAGLADGNYEGEeYAwCIBgGQBgiSBwM0LjGgB8gY&sclient=gws-wiz-serp
 print('hey what is your name')
 input()
 print('are you hungry')
@@ -16,3 +15,7 @@ def flip_coin():
   return random.choice(["Heads", "Tails"])
 result = flip_coin()
 print(result)
+print("hooray we finally figured out where to eat")
+
+
+
