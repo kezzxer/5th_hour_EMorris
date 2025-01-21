@@ -37,11 +37,7 @@ MusicFriday = {
         "year": 2024,
         "features": False,
     }
-},
-    "release3": {
-        "album": "tec",
-        "year"
-   }
+}
 print(MusicFriday["release1"])
 
 print(MusicFriday["release2"]["features"])

@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8b39c0b-5be1-450c-b6f4-745a29c4b4fc" name="Changes" comment="added hw12.py">
-      <change afterPath="$PROJECT_DIR$/hw13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw14.py" afterDir="false" />
+    <list default="true" id="f8b39c0b-5be1-450c-b6f4-745a29c4b4fc" name="Changes" comment="added hw 16">
+      <change afterPath="$PROJECT_DIR$/hw17.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw 10.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw 10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playground.py" beforeDir="false" afterPath="$PROJECT_DIR$/playground.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw template.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/senario 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/senario 4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,32 +59,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.HW3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Hw2 template.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw 10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw template.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.playground.executor&quot;: &quot;Run&quot;,
-    &quot;Python.scenario 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.scenario 3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.scenario.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tesyt.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/5th Hour/PycharmProjects/5th hour compsci&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.HW3.executor": "Run",
+    "Python.Hw2 template.executor": "Run",
+    "Python.hw 10.executor": "Run",
+    "Python.hw template.executor": "Run",
+    "Python.hw11.executor": "Run",
+    "Python.hw12.executor": "Run",
+    "Python.hw13.executor": "Run",
+    "Python.hw14.executor": "Run",
+    "Python.hw15.executor": "Run",
+    "Python.hw16.executor": "Run",
+    "Python.hw17.executor": "Run",
+    "Python.hw4.executor": "Run",
+    "Python.hw5.executor": "Run",
+    "Python.hw6.executor": "Run",
+    "Python.hw7.executor": "Run",
+    "Python.hw8.executor": "Run",
+    "Python.hw9.executor": "Run",
+    "Python.playground.executor": "Run",
+    "Python.scenario 2.executor": "Run",
+    "Python.scenario 3.executor": "Run",
+    "Python.scenario 5.executor": "Run",
+    "Python.scenario.executor": "Run",
+    "Python.senario 4.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.tesyt.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/5th Hour/PycharmProjects/5th hour compsci"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\5th Hour\PycharmProjects\5th hour compsci" />
@@ -415,7 +421,39 @@
       <option name="project" value="LOCAL" />
       <updated>1730920362225</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="added hw13 and hw 14">
+      <option name="closed" value="true" />
+      <created>1731524551797</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1731524551797</updated>
+    </task>
+    <task id="LOCAL-00037" summary="added senario 4">
+      <option name="closed" value="true" />
+      <created>1732043901556</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1732043901556</updated>
+    </task>
+    <task id="LOCAL-00038" summary="added hw 15">
+      <option name="closed" value="true" />
+      <created>1736966500351</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1736966500351</updated>
+    </task>
+    <task id="LOCAL-00039" summary="added hw 16">
+      <option name="closed" value="true" />
+      <created>1736968215752</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1736968215752</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -447,6 +485,10 @@
     <MESSAGE value="added hw10.py" />
     <MESSAGE value="added hw11.py" />
     <MESSAGE value="added hw12.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="added hw12.py" />
+    <MESSAGE value="added hw13 and hw 14" />
+    <MESSAGE value="added senario 4" />
+    <MESSAGE value="added hw 15" />
+    <MESSAGE value="added hw 16" />
+    <option name="LAST_COMMIT_MESSAGE" value="added hw 16" />
   </component>
 </project>
