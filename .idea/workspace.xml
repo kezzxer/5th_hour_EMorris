@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8b39c0b-5be1-450c-b6f4-745a29c4b4fc" name="Changes" comment="added hw 16">
-      <change afterPath="$PROJECT_DIR$/hw17.py" afterDir="false" />
+    <list default="true" id="f8b39c0b-5be1-450c-b6f4-745a29c4b4fc" name="Changes" comment="added hw 17">
+      <change afterPath="$PROJECT_DIR$/sc6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario 7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw template.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw4.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/senario 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/senario 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw16.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw16.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +71,8 @@
     "Python.hw15.executor": "Run",
     "Python.hw16.executor": "Run",
     "Python.hw17.executor": "Run",
+    "Python.hw18.executor": "Run",
+    "Python.hw19.executor": "Run",
     "Python.hw4.executor": "Run",
     "Python.hw5.executor": "Run",
     "Python.hw6.executor": "Run",
@@ -82,6 +83,8 @@
     "Python.scenario 2.executor": "Run",
     "Python.scenario 3.executor": "Run",
     "Python.scenario 5.executor": "Run",
+    "Python.scenario 6.executor": "Run",
+    "Python.scenario 7.executor": "Run",
     "Python.scenario.executor": "Run",
     "Python.senario 4.executor": "Run",
     "Python.test.executor": "Run",
@@ -453,7 +456,39 @@
       <option name="project" value="LOCAL" />
       <updated>1736968215752</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="added hw 17">
+      <option name="closed" value="true" />
+      <created>1737486591354</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1737486591354</updated>
+    </task>
+    <task id="LOCAL-00041" summary="added hw 17">
+      <option name="closed" value="true" />
+      <created>1737486633783</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1737486633783</updated>
+    </task>
+    <task id="LOCAL-00042" summary="added hw 17">
+      <option name="closed" value="true" />
+      <created>1738349547104</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1738349547104</updated>
+    </task>
+    <task id="LOCAL-00043" summary="added hw 17">
+      <option name="closed" value="true" />
+      <created>1738349557898</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1738349557898</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -489,6 +524,8 @@
     <MESSAGE value="added senario 4" />
     <MESSAGE value="added hw 15" />
     <MESSAGE value="added hw 16" />
-    <option name="LAST_COMMIT_MESSAGE" value="added hw 16" />
+    <MESSAGE value="added hw 19" />
+    <MESSAGE value="added hw 17" />
+    <option name="LAST_COMMIT_MESSAGE" value="added hw 17" />
   </component>
 </project>

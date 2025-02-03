@@ -44,3 +44,23 @@ def play_again():
 
 
 play_again()
+def ask_pull_again():
+    while beanBag:
+        pull_another = input("Do you want to pull another bean? (yes/no): ").strip().lower()
+        if pull_another == "yes":
+            pull_random_bean()
+        elif pull_another == "no":
+            print("Thanks for playing!")
+            break
+        else:
+            print("Invalid input, please answer with 'yes' or 'no'.")
+    if not beanBag:
+        print("The beanBag is empty!")
+
+        def pull_random_bean():
+            if beanBag:  # Check if the beanBag is not empty
+                pulled_bean = random.choice(beanBag)  # Randomly pick a bean
+                print(f"You pulled a {pulled_bean} bean!")
+                beanBag.remove(pulled_bean)  # Remove the pulled bean from the list
+            else:
+                print("The beanBag is empty!")
