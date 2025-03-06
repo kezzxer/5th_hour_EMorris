@@ -13,3 +13,24 @@ loop_to_number(5)
 
 
 #3. Delete all calls from HW15 and run HW19 agai
+try:
+    user_input = int(input("Enter a number to divide 100: "))
+    result = 100 / user_input
+    print("Result:", result)
+except ZeroDivisionError:
+    print("Exception: Divide By Zero Error")
+except ValueError:
+    print("Exception: Invalid input. Please enter a valid number.")
+try:
+    user_input = int(input("Enter a number: "))
+except ValueError:
+    print("Exception: Invalid input. Not a valid integer.")
+try:
+    count = 5
+    while count >= 0:
+        print(count)
+        count -= 1
+    if count < 0:
+        raise Exception("Count cannot go below zero!")
+except Exception as e:
+    print("Exception:", e)

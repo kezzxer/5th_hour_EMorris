@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8b39c0b-5be1-450c-b6f4-745a29c4b4fc" name="Changes" comment="added hw 17">
-      <change afterPath="$PROJECT_DIR$/sc6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scenario 7.py" afterDir="false" />
+    <list default="true" id="f8b39c0b-5be1-450c-b6f4-745a29c4b4fc" name="Changes" comment="added hw21.py">
+      <change afterPath="$PROJECT_DIR$/hw22.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw16.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw19.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw19.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +61,7 @@
   "keyToString": {
     "Python.HW3.executor": "Run",
     "Python.Hw2 template.executor": "Run",
+    "Python.ai playground.executor": "Run",
     "Python.hw 10.executor": "Run",
     "Python.hw template.executor": "Run",
     "Python.hw11.executor": "Run",
@@ -73,6 +73,9 @@
     "Python.hw17.executor": "Run",
     "Python.hw18.executor": "Run",
     "Python.hw19.executor": "Run",
+    "Python.hw20.executor": "Run",
+    "Python.hw21.executor": "Run",
+    "Python.hw22.executor": "Run",
     "Python.hw4.executor": "Run",
     "Python.hw5.executor": "Run",
     "Python.hw6.executor": "Run",
@@ -488,7 +491,39 @@
       <option name="project" value="LOCAL" />
       <updated>1738349557898</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="added hw 20">
+      <option name="closed" value="true" />
+      <created>1740078154347</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1740078154347</updated>
+    </task>
+    <task id="LOCAL-00045" summary="added playground.py">
+      <option name="closed" value="true" />
+      <created>1740681772898</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1740681772898</updated>
+    </task>
+    <task id="LOCAL-00046" summary="added playground.py">
+      <option name="closed" value="true" />
+      <created>1741027301388</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1741027301388</updated>
+    </task>
+    <task id="LOCAL-00047" summary="added hw21.py">
+      <option name="closed" value="true" />
+      <created>1741028047708</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1741028047708</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -508,7 +543,6 @@
     <MESSAGE value="added GitTest" />
     <MESSAGE value="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="added hw 3" />
-    <MESSAGE value="added playground.py" />
     <MESSAGE value="Merge remote-tracking branch 'github/master'" />
     <MESSAGE value="added senario1" />
     <MESSAGE value="added senario2" />
@@ -526,6 +560,9 @@
     <MESSAGE value="added hw 16" />
     <MESSAGE value="added hw 19" />
     <MESSAGE value="added hw 17" />
-    <option name="LAST_COMMIT_MESSAGE" value="added hw 17" />
+    <MESSAGE value="added hw 20" />
+    <MESSAGE value="added playground.py" />
+    <MESSAGE value="added hw21.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="added hw21.py" />
   </component>
 </project>
