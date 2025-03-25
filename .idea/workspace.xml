@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8b39c0b-5be1-450c-b6f4-745a29c4b4fc" name="Changes" comment="added hw21.py">
-      <change afterPath="$PROJECT_DIR$/hw22.py" afterDir="false" />
+    <list default="true" id="f8b39c0b-5be1-450c-b6f4-745a29c4b4fc" name="Changes" comment="added scenario8.py.py">
+      <change afterPath="$PROJECT_DIR$/hw24.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw19.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ai playground.py" beforeDir="false" afterPath="$PROJECT_DIR$/ai playground.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +76,8 @@
     "Python.hw20.executor": "Run",
     "Python.hw21.executor": "Run",
     "Python.hw22.executor": "Run",
+    "Python.hw23.executor": "Run",
+    "Python.hw24.executor": "Run",
     "Python.hw4.executor": "Run",
     "Python.hw5.executor": "Run",
     "Python.hw6.executor": "Run",
@@ -89,6 +91,7 @@
     "Python.scenario 6.executor": "Run",
     "Python.scenario 7.executor": "Run",
     "Python.scenario.executor": "Run",
+    "Python.scenario8.executor": "Run",
     "Python.senario 4.executor": "Run",
     "Python.test.executor": "Run",
     "Python.tesyt.executor": "Run",
@@ -146,14 +149,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724090378054</updated>
-    </task>
-    <task id="LOCAL-00001" summary="added hw1">
-      <option name="closed" value="true" />
-      <created>1724091045793</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1724091045793</updated>
     </task>
     <task id="LOCAL-00002" summary="added hw1">
       <option name="closed" value="true" />
@@ -523,7 +518,31 @@
       <option name="project" value="LOCAL" />
       <updated>1741028047708</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="added hw22.py">
+      <option name="closed" value="true" />
+      <created>1741287515599</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1741287515599</updated>
+    </task>
+    <task id="LOCAL-00049" summary="added hw23.py">
+      <option name="closed" value="true" />
+      <created>1741630093363</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1741630093363</updated>
+    </task>
+    <task id="LOCAL-00050" summary="added scenario8.py.py">
+      <option name="closed" value="true" />
+      <created>1741715295887</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1741715295888</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -538,9 +557,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added hw1" />
-    <MESSAGE value="added hw2" />
-    <MESSAGE value="added GitTest" />
     <MESSAGE value="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="added hw 3" />
     <MESSAGE value="Merge remote-tracking branch 'github/master'" />
@@ -563,6 +579,9 @@
     <MESSAGE value="added hw 20" />
     <MESSAGE value="added playground.py" />
     <MESSAGE value="added hw21.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="added hw21.py" />
+    <MESSAGE value="added hw22.py" />
+    <MESSAGE value="added hw23.py" />
+    <MESSAGE value="added scenario8.py.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="added scenario8.py.py" />
   </component>
 </project>
