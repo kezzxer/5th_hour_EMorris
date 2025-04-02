@@ -9,7 +9,7 @@ class Character:
     def __init__(self, name, health, damage, speed):
         self.name = name
         self.health = health
-        self.max_health = health
+        self.max_health = health  # max_health attribute
         self.damage = damage
         self.speed = speed
 
@@ -23,7 +23,7 @@ class Character:
         if self.health > self.max_health:
             self.health = self.max_health
 
-    def damage_over_time(self, damage, duration):sw
+    def damage_over_time(self, damage, duration):
         for _ in range(duration):
             self.take_damage(damage)
             print(f"{self.name} took {damage} damage. Current health: {self.health}/{self.max_health}")
